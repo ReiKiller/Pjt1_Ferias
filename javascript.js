@@ -199,7 +199,7 @@ buttonVerMais.addEventListener("click", function() {
 
         imagensCarregadas = true;
         buttonVerMais.removeEventListener("click", this);
-        alert ("Contém um easter egg nesta página, descubra passando o cursor nas palavras");
+        alert ("Vá ao inicio da página e clique na frase Grand Theft Auto 6 ");
     }
 });
 body.appendChild(buttonVerMais);
