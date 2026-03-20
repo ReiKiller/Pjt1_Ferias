@@ -1,5 +1,3 @@
-document.title = "GTA6 do Aleh";
-
 const body = document.querySelector("body");
 body.style.margin = "0px";
 body.style.minHeight = "100vh";
